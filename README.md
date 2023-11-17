@@ -28,7 +28,7 @@
 
 3. Go app.json and Change "repostory" Url's user name to your user name ( Line 04 )
 
-4. ***Deploy on [Heroku](https://heroku.com/deploy?template=https://github.com/CYBER-TECH-TEAM/BLACK-CYBER-V1)***
+4. ***Deploy on [Heroku](https://heroku.com/deploy?template=https://github.com/Nimesq/CYBER-X-WHATSAPP-BOT)***
 
 ## Features
 
