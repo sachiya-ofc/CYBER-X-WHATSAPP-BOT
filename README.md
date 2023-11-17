@@ -28,10 +28,7 @@
 
 3. Go app.json and Change "repostory" Url's user name to your user name ( Line 04 )
 
-4. Create your own Heroku template Link `https://heroku.com/deploy?template={Your repo Link}`
-
-5. Deploy now without Heroku Suspend
-
+4. ***Deploy on [Heroku](https://heroku.com/deploy?template=https://github.com/CYBER-TECH-TEAM/BLACK-CYBER-V1)***
 
 ## Features
 
